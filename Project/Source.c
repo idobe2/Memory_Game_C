@@ -1,8 +1,5 @@
 /*
 Final Project - 30.05.21
-Ido Ben Nun - 209202225
-Noam Bar - 207994450
-Bar Cohen - 316164938
 */
 
 #define _CRT_SECURE_NO_WARNINGS
